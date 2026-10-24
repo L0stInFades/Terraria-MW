@@ -44,7 +44,7 @@ references='''# 图片参考与像素轮廓研究
 | 枪械 | 来源 | 轮廓观察 | 原创成品 |
 | --- | --- | --- | --- |
 '''+ '\n'.join(rows)+'\n'
-(ROOT/'docs/REFERENCES.md').write_text(references,encoding='utf8')
+(ROOT/'docs/REFERENCES.md').write_text(references,encoding='utf8',newline='\n')
 comparison=[]
 for gun in data['Guns']:
     native=max((g for g in balance['vanilla'] if g['tier']==gun['Tier']),key=lambda g:g['sustainDps'])
@@ -77,7 +77,7 @@ native_rows=[f"| {g['weapon']} | {g['ammo']} | {g['damage']} | {g['useTime']} | 
 '''+ '\n'.join(native_rows)+'''
 
 短弹匣和长换弹通过提高单发、暴击或穿甲补偿。近战射程的霰弹与远距独头弹各有用途；消音器仅改变声音与枪口焰，不额外扣伤害。射手装备和前缀继续通过原生伤害与暴击计算生效。测试没有代替完整生存通关或所有首领的实战比较。
-''',encoding='utf8')
+''',encoding='utf8',newline='\n')
 
 page='''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>现代军械库 · 经典战场</title>
 <style>
@@ -106,6 +106,6 @@ page=page.replace('<b>65</b>',f"<b>{usp['Damage']+fmj['Damage']}</b>")
 page=page.replace('<h2>装备与进度</h2>','<p><a href="ANIMATIONS.md">24 把枪的独立动作</a> · <a href="BALANCE.md">计入换弹的数值对照</a> · <a href="ATTACHMENTS.md">改件实物资料与操作</a></p><h2>装备与进度</h2>')
 page=page.replace('${g.Speed} 像素 / 刻', '${g.Sustain.toFixed(0)} / ${g.Cycle.toFixed(0)} 输出（30 秒 / 完整弹匣长期循环，均含换弹）<br>${g.Speed} 像素 / 刻')
 page=page.replace('<div class="reference"><img src="${g.ReferenceImage}"', '<img src="animations/${g.Id}.gif" alt="${g.Name} 独立开火动作慢放" loading="lazy" style="width:100%;image-rendering:pixelated"><p class="detail">${g.Motion.Notes}</p><div class="reference"><img src="${g.ReferenceImage}"')
-(ROOT/'docs/军械图鉴.html').write_text(page,encoding='utf8')
+(ROOT/'docs/军械图鉴.html').write_text(page,encoding='utf8',newline='\n')
 assert page.count('DATA_JSON')==0
 print('Created the interactive catalog, optional local pixel studies, and reference provenance.')

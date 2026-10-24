@@ -176,6 +176,8 @@ public sealed class ArsenalSelfTest : ModSystem
         int before = usp.Rounds;
         usp.Shoot(player, source, player.Center, new Vector2(26, 0), ModContent.ProjectileType<BallisticRound>(), player.GetWeaponDamage(usp.Item), 3);
         Projectile bullet = Main.projectile.First(p => p.active && p.ModProjectile is BallisticRound);
+        // Align the small fixture with the emitted ray; the held muzzle is above the player's center.
+        target.Center = bullet.Center + bullet.velocity.SafeNormalize(Vector2.UnitX) * 160;
         for (int tick = 0; tick < 30 && bullet.active; tick++) bullet.Update(bullet.whoAmI);
         Check(usp.Rounds == before - 1 && (!target.active || target.life <= 0), "actual USP shot consumes one magazine round and kills an early slime through native collision and damage");
         foreach (Projectile p in Main.projectile) p.active = false;
