@@ -4,6 +4,8 @@ Terraria: MW 是一个现代枪械与密集阵模组，当前版本 **1.3.1**，
 
 包含 24 把枪、逐枪开火动画、改枪界面、换弹与弹道、免费补给、4500 发/分密集阵、自动平台阵地和遥控器。Boss Rush API 与 Example Boss Rush 是可选的第三方连战前置，需另行安装。
 
+**许可证：[MIT](LICENSE)**。原创代码、素材和文档按 MIT 许可开放；第三方素材与游戏内容的权利说明见 [NOTICE.md](NOTICE.md)。
+
 **继续开发：[环境、构建、测试与代码入口](docs/DEVELOPMENT.md)**。克隆时使用 `git clone https://github.com/L0stInFades/Terraria-MW.git ModernArsenal`，设置 `TML_PATH` 后运行 `tools/build.ps1`。
 
 ![密集阵实景](docs/screenshots/ciws-ap.png)
