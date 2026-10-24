@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TmlInstallDir Condition="'$(TML_PATH)' != ''">$(TML_PATH)</TmlInstallDir>
+    <TmlInstallDir Condition="'$(TmlInstallDir)' == ''">..\..\tModLoader</TmlInstallDir>
+  </PropertyGroup>
+  <Import Project="$(TmlInstallDir)\tMLMod.targets" />
+  <PropertyGroup>
+    <AssemblyName>ModernArsenal</AssemblyName>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup><Compile Remove="artifacts\**;docs\**;tools\**" /></ItemGroup>
+</Project>

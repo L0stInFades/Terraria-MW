@@ -1,0 +1,231 @@
+[
+  {
+    "id": "USP45",
+    "query": "USP手枪",
+    "search": "https://www.bing.com/images/search?q=USP%E6%89%8B%E6%9E%AA&setlang=zh-Hans",
+    "image": "http://x0.ifengimg.com/res/2019/0BA62B61C77273DF346699C400BA199B2D11FEE3_size240_w1000_h750.jpeg",
+    "page": "https://ishare.ifeng.com/c/s/7r2h2wy99x8",
+    "thumbnail": "https://ts3.mm.bing.net/th?id=OIP.JWPMR5LTr94cF_GsY2yUjwHaFj&pid=15.1",
+    "title": "美国枪械作家：使用黑克勒-科赫USP紧凑型手枪15年的亲身感受__凤凰网",
+    "observations": "方形套筒、外露击锤、前端导轨；开局主力"
+  },
+  {
+    "id": "M9",
+    "query": "伯莱塔92F",
+    "search": null,
+    "image": "https://i.guancha.cn/bbs/2020/05/27/20200527144820243.png?imageView2/2/w/500/format/png",
+    "page": "https://user.guancha.cn/main/content?id=316383",
+    "title": "Beretta M9: open slide and barrel",
+    "observations": "开放式套筒、圆形扳机护圈、长直枪管"
+  },
+  {
+    "id": "DesertEagle",
+    "query": "沙漠之鹰",
+    "search": null,
+    "image": "https://modernfirearms.net/userfiles/_thumbs/Images/handguns/israel/1287736449.jpg",
+    "page": "https://modernfirearms.net/en/handguns/handguns-en/israel-semi-automatic-pistols/desert-eagle-eng/",
+    "title": "Desert Eagle: thick slide and polygonal barrel",
+    "observations": "厚重银色套筒、多边形枪管、宽握把"
+  },
+  {
+    "id": "MP5",
+    "query": "MP5",
+    "search": "https://www.bing.com/images/search?q=MP5&setlang=zh-Hans",
+    "image": "https://shp.qpic.cn/inewsnopic/326307006/bd4b614731f49a0e72a0ff80dbb793b5/0",
+    "page": "https://wefire.qq.com/webplat/info/news_version3/9740/10945/10948/11547/11553/m8580/201512/408400.shtml",
+    "thumbnail": "https://ts3.mm.bing.net/th?id=OIP.RkoW4UP_mzsLVQRh-j5lIwHaDj&pid=15.1",
+    "title": "世界十大名枪介绍之MP5",
+    "observations": "环形准星、弧形弹匣、伸缩枪托"
+  },
+  {
+    "id": "UMP45",
+    "query": "UMP冲锋枪",
+    "search": null,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1a7s2rZqNkLvWsHmKCx-FkveBnTCyMmRQguynLwo2reHmVbgQkApR1FrNc50KwmoazMbyw4VHeioJBziX-hiocvH1otvFCD_SLOTiQGw",
+    "page": "https://github.com/ByMykel/CSGO-API",
+    "title": "UMP-45 reference render; silhouette only",
+    "observations": "方形镂空折叠托、直弹匣、聚合物机匣"
+  },
+  {
+    "id": "P90",
+    "query": "P90",
+    "search": "https://www.bing.com/images/search?q=P90&setlang=zh-Hans",
+    "image": "http://n.sinaimg.cn/sinacn20191103ac/736/w480h256/20191103/bdcd-ihuuxuu4373521.jpg",
+    "page": "https://k.sina.com.cn/article_6433656384_17f79ce4000100pc1q.html",
+    "thumbnail": "https://ts3.mm.bing.net/th?id=OIP.nkRGAkq9NsrxzCA-_rXs9QHaD8&pid=15.1",
+    "title": "当年被称为最强冲锋枪的FN-P90到底有多强？百米之内无可匹敌|侵权_新浪新闻",
+    "observations": "上置半透明弹匣、无托布局、双握孔"
+  },
+  {
+    "id": "Vector",
+    "query": "Vector冲锋枪",
+    "search": "https://www.bing.com/images/search?q=Vector%E5%86%B2%E9%94%8B%E6%9E%AA&setlang=zh-Hans",
+    "image": "http://game.gtimg.cn/images/cfhd/cp/a20180523cfhd/weapon/KRISS-b.png",
+    "page": "http://cfhd.cf.qq.com/cp/a20180523cfhd/index.htm",
+    "thumbnail": "https://ts2.mm.bing.net/th?id=OIP.7xkRGEHxfuQK8ZDmiuldGQHaEL&pid=15.1",
+    "title": "穿越火线高清竞技大区-CFHD-官方网站-腾讯游戏",
+    "observations": "前下方大型机匣、短枪管、直弹匣"
+  },
+  {
+    "id": "M4A1",
+    "query": "M4A1",
+    "search": "https://www.bing.com/images/search?q=M4A1&setlang=zh-Hans",
+    "image": "https://shp.qpic.cn/inewsnopic/326307006/784cc3f8b32c32e4eb5f4f0f79969f6a/0",
+    "page": "https://wefire.qq.com/webplat/info/news_version3/9740/10945/10948/11547/11548/m8580/201512/407823.shtml",
+    "thumbnail": "https://ts4.mm.bing.net/th?id=OIP.XjOiaYQd_DBIAIRubeQJmQHaDh&pid=15.1",
+    "title": "世界十大名枪介绍之M4A1",
+    "observations": "伸缩枪托、提把导轨、三角准星、弧形弹匣"
+  },
+  {
+    "id": "AK47",
+    "query": "AK47",
+    "search": "https://www.bing.com/images/search?q=AK47&setlang=zh-Hans",
+    "image": "http://n.sinaimg.cn/sinakd20200604ac/605/w1080h325/20200604/2cbc-iumkapx1216055.jpg",
+    "page": "https://k.sina.cn/article_5921537440_160f37da000100puc3.html",
+    "thumbnail": "https://ts4.mm.bing.net/th?id=OIP.UPr1GvgNAlE9vDzzI1soTAHaCO&pid=15.1",
+    "title": "枪王AK47，军械迷的最爱，但你真的懂吗？",
+    "observations": "木质枪托护木、大弧度弹匣、长导气管"
+  },
+  {
+    "id": "M16A4",
+    "query": "M16A4",
+    "search": null,
+    "image": "https://game.gtimg.cn/images/gp/zlkdatasys/qiangxie/image/20201104/e7d6f62b1c65bfb5f38c62008288bbbd.png",
+    "page": "https://gp.qq.com/",
+    "title": "Tencent M16A4 reference render",
+    "observations": "固定枪托、长护木、提把；三连发"
+  },
+  {
+    "id": "G36C",
+    "query": "G36C",
+    "search": "https://www.bing.com/images/search?q=G36C&setlang=zh-Hans",
+    "image": "http://n.sinaimg.cn/sinakd10015/700/w960h540/20201004/14d3-kaaxtfm6999413.jpg",
+    "page": "https://k.sina.com.cn/article_6536940867_m185a1cd4300100wll0.html",
+    "thumbnail": "https://ts2.mm.bing.net/th?id=OIP.ascnsLp-01s9SSrC1zgAcQHaEK&pid=15.1",
+    "title": "HK G36C突击步枪，又短又轻是它特点，看看安装消音器后的效果_新浪新闻",
+    "observations": "镂空折叠托、长提把、短护木"
+  },
+  {
+    "id": "FAMAS",
+    "query": "FAMAS",
+    "search": null,
+    "image": "https://modernfirearms.net/wp-content/uploads/2010/10/famasf11-650x227.jpg",
+    "page": "https://modernfirearms.net/en/assault-rifles/france-assault-rifles/famas-eng/",
+    "title": "FAMAS F1: carry handle and bullpup layout",
+    "observations": "高架提把、后置弹匣、长直枪管；三连发"
+  },
+  {
+    "id": "SCARH",
+    "query": "SCAR-H",
+    "search": "https://www.bing.com/images/search?q=SCAR-H&setlang=zh-Hans",
+    "image": "https://fabu.ccynice.com/upload/0d3b47fe45b460aa9dab43734a9fa624.jpg",
+    "page": "https://sy.ccynice.com/shiyong/908.html",
+    "thumbnail": "https://ts3.mm.bing.net/th?id=OIP.ro5fXY8L7lPdq9GxtD6dUwHaC9&pid=15.1",
+    "title": "三角洲行动SCAR-H工程位改装指南：全面战场优化解析-云手机试用网",
+    "observations": "沙色机身、折叠伸缩托、粗直弹匣"
+  },
+  {
+    "id": "ACR",
+    "query": "ACR步枪",
+    "search": null,
+    "image": "https://modernfirearms.net/userfiles/_thumbs/Images/civil/civ018/masada-5.jpg",
+    "page": "https://modernfirearms.net/en/assault-rifles/u-s-a-assault-rifles/magpul-masada-acr-eng/",
+    "title": "Magpul MASADA / ACR reference",
+    "observations": "连续顶导轨、平直护木、折叠托；精度主力"
+  },
+  {
+    "id": "M1014",
+    "query": "M1014",
+    "search": "https://www.bing.com/images/search?q=M1014&setlang=zh-Hans",
+    "image": "http://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20190805/22/wemedia/afee9c289231c22814f2e1f5ddfa4fc386baf9ac_size949_w1104_h618.png",
+    "page": "https://mil.ifeng.com/c/7otdy65GULY",
+    "thumbnail": "https://ts4.mm.bing.net/th?id=OIP.SXtWq_l4V1K9QGAFhbMQFwHaEJ&pid=15.1",
+    "title": "解读美军“堑壕杀手”：容弹7发的M1014霰弹枪_凤凰网",
+    "observations": "伸缩骨架托、粗枪管、短管式弹仓"
+  },
+  {
+    "id": "SPAS12",
+    "query": "SPAS-12",
+    "search": null,
+    "image": "https://static.wixstatic.com/media/0cdaa4_54d06f934de84e83a715229f5aef0ef8~mv2_d_5183_2522_s_4_2.jpg",
+    "page": "https://spas-12.com/",
+    "title": "SPAS-12 Project collection photograph",
+    "observations": "带孔隔热罩、粗泵动护木、折叠托"
+  },
+  {
+    "id": "AA12",
+    "query": "AA-12",
+    "search": "https://www.bing.com/images/search?q=AA-12&setlang=zh-Hans",
+    "image": "https://bkimg.cdn.bcebos.com/pic/11794d43ca68af609213c628?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_193",
+    "page": "https://baike.baidu.com/item/艾奇逊AA-12自动霰弹枪/6184887",
+    "thumbnail": "https://ts2.mm.bing.net/th?id=OIP.CedzXmwWylim-LPwAfyCdwHaC2&pid=15.1",
+    "title": "艾奇逊AA-12自动霰弹枪_百度百科",
+    "observations": "圆鼓弹匣、厚实聚合物机身；全自动霰弹"
+  },
+  {
+    "id": "M249",
+    "query": "M249",
+    "search": "https://www.bing.com/images/search?q=M249&setlang=zh-Hans",
+    "image": "https://game.gtimg.cn/images/gp/zlkdatasys/qiangxiem/image/20201104/93eb5b3ffdd7aa3380d7bee6f81392ee.png",
+    "page": "https://gp.qq.com/zlkdatasys/qiangxiem/m249.html",
+    "thumbnail": "https://ts4.mm.bing.net/th?id=OIP.jfUyIVyHm_6Y1tYkOnZYjgHaDN&pid=15.1",
+    "title": "M249-武器详情页-和平精英-官方网站-腾讯游戏",
+    "observations": "大型弹链盒、通风护木、折叠两脚架"
+  },
+  {
+    "id": "RPD",
+    "query": "RPD轻机枪",
+    "search": null,
+    "image": "https://modernfirearms.net/userfiles/_thumbs/Images/machine/mg14/rpd.jpg",
+    "page": "https://modernfirearms.net/en/machineguns/russia-machineguns/rpd-eng/",
+    "title": "RPD: wood stock, belt drum and bipod",
+    "observations": "木托、圆形弹链鼓、长枪管与脚架"
+  },
+  {
+    "id": "M60E4",
+    "query": "M60机枪",
+    "search": null,
+    "image": "https://modernfirearms.net/userfiles/_thumbs/Images/machine/mg12/m60e4.jpg",
+    "page": "https://modernfirearms.net/en/machineguns/u-s-a-machineguns/m60-eng/",
+    "title": "M60E4: foregrip, handguard and belt box",
+    "observations": "宽弹链箱、前垂直握把、粗长枪管"
+  },
+  {
+    "id": "M21EBR",
+    "query": "M21狙击步枪",
+    "search": null,
+    "image": "https://pic.baike.soso.com/ugc/baikepic2/2253/20200619052038-1898111842_jpeg_500_308_26317.jpg/0",
+    "page": "https://baike.sogou.com/v666164.htm",
+    "title": "M14 EBR platform: chassis and scope study",
+    "observations": "骨架底盘、长瞄具、直弹匣；半自动精确射击"
+  },
+  {
+    "id": "MK14",
+    "query": "MK14",
+    "search": "https://www.bing.com/images/search?q=MK14&setlang=zh-Hans",
+    "image": "https://game.gtimg.cn/images/gp/zlkdatasys/qiangxie/image/20200428/2b873301f6a0fb2f5132e7fc0af263ea.png",
+    "page": "https://gp.qq.com/zlkdatasys/qiangxie/mk14.html",
+    "thumbnail": "https://ts1.mm.bing.net/th?id=OIP.qfjGngWEbflm1lXZpfTGVQHaDN&pid=15.1",
+    "title": "Mk14-武器详情-和平精英-官方网站-腾讯游戏",
+    "observations": "M14 轮廓、现代伸缩托、短瞄准镜"
+  },
+  {
+    "id": "Intervention",
+    "query": "CheyTac",
+    "search": null,
+    "image": "https://shp.qpic.cn/cfwebcap/0/ccdba7bbc962248bd635f8ad04c1d83b/0/?width=1268&height=585",
+    "page": "https://codm.qq.com/",
+    "title": "COD Mobile M200 / Intervention reference",
+    "observations": "大型高架瞄具、镂空可调托、长枪管和脚架"
+  },
+  {
+    "id": "BarrettM82",
+    "query": "巴雷特",
+    "search": "https://www.bing.com/images/search?q=%E5%B7%B4%E9%9B%B7%E7%89%B9&setlang=zh-Hans",
+    "image": "http://military.people.com.cn/mediafile/200608/28/F200608281508061813125970.jpg",
+    "page": "http://military.people.com.cn/GB/52935/4748546.html",
+    "thumbnail": "https://ts1.mm.bing.net/th?id=OIP.5I4cMaGCSOwvD-lZdnICvAHaDW&pid=15.1",
+    "title": "台军买“狙击枪王”干什么？--军事--人民网",
+    "observations": "矩形枪口制退器、长方机匣、宽直弹匣"
+  }
+]

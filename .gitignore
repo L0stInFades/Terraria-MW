@@ -1,0 +1,32 @@
+# Local worlds, characters, build output, downloaded mods, and research caches
+/Play/
+/artifacts/
+/bin/
+/obj/
+*.tmod
+*.dll
+*.pdb
+*.log
+*.plr
+*.tplr
+*.wld
+*.twld
+*.bak
+__pycache__/
+*.pyc
+
+# Personal editor and environment settings
+/.vs/
+/.vscode/
+*.user
+*.suo
+.env
+.env.*
+
+# Third-party photos, page captures, derived photo studies, and game decompilation
+/docs/reference/*
+!/docs/reference/sources.json
+/docs/attachment-reference/*
+!/docs/attachment-reference/sources.json
+/docs/pixel-studies/
+/docs/vanilla-weapon-code.json

@@ -1,0 +1,255 @@
+Mods: {
+	ModernArsenal: {
+		Items: {
+			USP45: {
+				DisplayName: USP .45
+				Tooltip: ""
+			}
+
+			M9: {
+				DisplayName: M9
+				Tooltip: ""
+			}
+
+			DesertEagle: {
+				DisplayName: Desert Eagle
+				Tooltip: ""
+			}
+
+			MP5: {
+				DisplayName: MP5
+				Tooltip: ""
+			}
+
+			UMP45: {
+				DisplayName: UMP45
+				Tooltip: ""
+			}
+
+			P90: {
+				DisplayName: P90
+				Tooltip: ""
+			}
+
+			Vector: {
+				DisplayName: Vector
+				Tooltip: ""
+			}
+
+			M4A1: {
+				DisplayName: M4A1
+				Tooltip: ""
+			}
+
+			AK47: {
+				DisplayName: AK-47
+				Tooltip: ""
+			}
+
+			M16A4: {
+				DisplayName: M16A4
+				Tooltip: ""
+			}
+
+			G36C: {
+				DisplayName: G36C
+				Tooltip: ""
+			}
+
+			FAMAS: {
+				DisplayName: FAMAS
+				Tooltip: ""
+			}
+
+			SCARH: {
+				DisplayName: SCAR-H
+				Tooltip: ""
+			}
+
+			ACR: {
+				DisplayName: ACR
+				Tooltip: ""
+			}
+
+			M1014: {
+				DisplayName: M1014
+				Tooltip: ""
+			}
+
+			SPAS12: {
+				DisplayName: SPAS-12
+				Tooltip: ""
+			}
+
+			AA12: {
+				DisplayName: AA-12
+				Tooltip: ""
+			}
+
+			M249: {
+				DisplayName: M249 SAW
+				Tooltip: ""
+			}
+
+			RPD: {
+				DisplayName: RPD
+				Tooltip: ""
+			}
+
+			M60E4: {
+				DisplayName: M60E4
+				Tooltip: ""
+			}
+
+			M21EBR: {
+				DisplayName: M21 EBR
+				Tooltip: ""
+			}
+
+			MK14: {
+				DisplayName: MK14
+				Tooltip: ""
+			}
+
+			Intervention: {
+				DisplayName: Intervention
+				Tooltip: ""
+			}
+
+			BarrettM82: {
+				DisplayName: Barrett .50cal
+				Tooltip: ""
+			}
+
+			NineFMJ: {
+				DisplayName: 9×19mm FMJ
+				Tooltip: ""
+			}
+
+			NineAP: {
+				DisplayName: 9×19mm AP
+				Tooltip: ""
+			}
+
+			FortyFiveFMJ: {
+				DisplayName: .45 ACP FMJ
+				Tooltip: ""
+			}
+
+			FortyFiveJHP: {
+				DisplayName: .45 ACP JHP
+				Tooltip: ""
+			}
+
+			FiftyAE: {
+				DisplayName: .50 AE FMJ
+				Tooltip: ""
+			}
+
+			FiveSeven: {
+				DisplayName: 5.7×28mm FMJ
+				Tooltip: ""
+			}
+
+			FiveSevenAP: {
+				DisplayName: 5.7×28mm AP
+				Tooltip: ""
+			}
+
+			Nato556: {
+				DisplayName: 5.56×45mm FMJ
+				Tooltip: ""
+			}
+
+			Nato556AP: {
+				DisplayName: 5.56×45mm AP
+				Tooltip: ""
+			}
+
+			Nato556Tracer: {
+				DisplayName: 5.56×45mm Tracer
+				Tooltip: ""
+			}
+
+			Soviet762: {
+				DisplayName: 7.62×39mm FMJ
+				Tooltip: ""
+			}
+
+			Soviet762AP: {
+				DisplayName: 7.62×39mm AP
+				Tooltip: ""
+			}
+
+			Nato762: {
+				DisplayName: 7.62×51mm FMJ
+				Tooltip: ""
+			}
+
+			Nato762AP: {
+				DisplayName: 7.62×51mm AP
+				Tooltip: ""
+			}
+
+			CheyTac408: {
+				DisplayName: .408 CheyTac Match
+				Tooltip: ""
+			}
+
+			Bmg50: {
+				DisplayName: .50 BMG FMJ
+				Tooltip: ""
+			}
+
+			Bmg50AP: {
+				DisplayName: .50 BMG AP
+				Tooltip: ""
+			}
+
+			Buckshot12: {
+				DisplayName: 12 Gauge 00 Buckshot
+				Tooltip: ""
+			}
+
+			Slug12: {
+				DisplayName: 12 Gauge Slug
+				Tooltip: ""
+			}
+
+			SupplyCrate: {
+				DisplayName: Supply Crate
+				Tooltip:
+					'''
+					Right-click for free ammunition and unlocked weapons
+					No ammo crafting; mine and relocate the crate
+					'''
+			}
+
+			PhalanxTurret: {
+				DisplayName: Phalanx CIWS Turret
+				Tooltip: ""
+			}
+
+			PhalanxRemote: {
+				DisplayName: CIWS Remote Controller
+				Tooltip: ""
+			}
+		}
+
+		Tiles: {
+			SupplyTile.MapEntry: Supply Crate
+			PhalanxTile.MapEntry: Phalanx CIWS
+		}
+
+		Keybinds: {
+			Reload.DisplayName: Reload firearm
+			ModifyGun.DisplayName: Open gunsmith
+		}
+
+		Projectiles: {
+			BallisticRound.DisplayName: Ballistic Round
+			PhalanxBlast.DisplayName: Phalanx Blast
+			PhalanxRound.DisplayName: Phalanx Round
+		}
+	}
+}

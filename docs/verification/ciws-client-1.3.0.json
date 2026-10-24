@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "tick": 2260,
+  "checks": [
+    "native client loads the platform arena and equips its remote",
+    "all six restored tile entities exist in the real client",
+    "remote item primary use turns the installation on",
+    "real client: each of six turrets fires exactly 750 projectiles in ten seconds",
+    "continuous native collisions remove over ten million actual target health",
+    "ten seconds of live automatic fire consumes no inventory ammunition",
+    "remote item power-off stops all six guns in real gameplay",
+    "remote item alternate use selects HEI-T",
+    "HEI-T rounds fly in the real client after the ammo switch",
+    "four actual vanilla pillars spawn with full 100-kill shields",
+    "real pillar defeat follows strategic order at step 1",
+    "real pillar defeat follows strategic order at step 2",
+    "real pillar defeat follows strategic order at step 3",
+    "real pillar defeat follows strategic order at step 4",
+    "four pillar shields are broken by native enemy deaths and all four pillars are actually defeated"
+  ],
+  "pillarFrames": 1330,
+  "waves": 60,
+  "defeated": [
+    422,
+    493,
+    517,
+    507
+  ],
+  "error": null
+}

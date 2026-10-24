@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "checks": [
+    "new server process restores arena, power-off and HE ammunition",
+    "new process restores all six real turret tile entities",
+    "control locker and spare turrets survive real world-file reload",
+    "native player-file reload retains the controller in hotbar 10"
+  ],
+  "arenas": [
+    {
+      "x": 1984,
+      "floor": 241
+    }
+  ],
+  "turrets": 6
+}
